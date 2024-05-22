@@ -29,3 +29,5 @@ Conclusion
 2.1. Data Description
 
 The data used for this project was obtained from Kaggle. It consists of 3333 entries and 21 columns, providing details such as state, account duration, area code, phone number, international plan, voicemail plan, voicemail message count, and various call-related metrics including daytime, evening, and nighttime minutes, calls, and charges. Additionally, it includes information on international calls and charges, customer service calls, and churn status.
+
+The dataset includes key factors necessary for analyzing customer behavior and predicting churn for SyriaTel Company. Important attributes like customer subscriptions (e.g., international plans, voicemail plans) and call usage statistics (e.g., total day minutes, total night minutes) are available. The 'Churn' column serves as the target variable, distinguishing between customers who have discontinued service ('True') and those who haven't ('False'). With this comprehensive dataset, it's possible to develop a predictive model to accurately pinpoint churn risks and implement targeted retention tactics, aligning with the project's aim of reducing customer churn effectively.
