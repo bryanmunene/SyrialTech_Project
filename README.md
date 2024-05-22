@@ -1,18 +1,22 @@
 # SyrialTech_Project
 SYRIATEL PREDICTIVE ANALYSIS OF CUSTOMER CHURN
 1. Business Understanding
+2. 
 1.1. Introduction
-SyriaTel, a telecommunications company bases in Damascus Syria, encounters a notable obstacle in curtailing customer churn, which can detrimentally affect its revenue and overall profitability. Customer churn denotes the situation where customers terminate their subscriptions with a company, frequently transitioning to competitors or discontinuing the service entirely. Notably, poor service experience and customer service are among the primary contributors to customer churn. Additionally, the ease with which customers can switch providers and encountering subpar customer experiences, such as requiring multiple contacts for issue resolution, also significantly contribute to churn rates. These factors underscore the criticality of focusing on service quality and enhancing customer satisfaction to effectively diminish the churn rate.
+   
+SyriaTel, a telecom company based in Damascus, faces a significant challenge in reducing customer churn, which can have a negative impact on its revenue and overall profitability. Customer churn refers to when customers cancel their subscriptions, often moving to competitors or discontinuing the service altogether. Poor service and customer support are major reasons for churn. Additionally, the ease of switching providers and encountering unsatisfactory experiences, like needing multiple contacts for issue resolution, also contribute to churn rates. It's crucial for SyriaTel to focus on improving service quality and enhancing customer satisfaction to reduce churn effectively.
 
-1.2. Business stakeholders
-The primary stakeholder in this project is SyrialTel, a telecommunications company based in Damascus, Syria. Their core interest lies in understanding the patterns and reasons behind customer churn. By comprehensively understanding why customers leave, SyrialTel can take proactive measures to retain them. This includes improving service quality, enhancing customer support, and offering tailored solutions to address customer needs. By leveraging data-driven insights, SyrialTel can make informed decisions, tailor services, and allocate resources effectively to reduce churn. This proactive approach not only improves customer satisfaction but also leads to financial savings by minimizing revenue loss associated with customers discontinuing their services.
+1.2. Business stakeholder
+
+The main player in this project is SyriaTel, a telecom company located in Damascus, Syria. Their main focus is on grasping the patterns and causes behind customer churn. By deeply understanding why customers depart, SyriaTel can implement proactive strategies to keep them. This involves enhancing service quality, improving customer support, and providing personalized solutions to meet customer demands. Utilizing insights from data analysis, SyriaTel can make well-informed decisions, customize services, and efficiently allocate resources to decrease churn. This proactive approach not only boosts customer satisfaction but also saves money by reducing revenue loss from customers ending their services.
 
 1.3. Main Objective
-The main objective of this project is to build a predictive classifier that assists SyrialTel Telecommunication company in determining if there is a predictable pattern to customer churning.
+
+The primary goal of this project is to create a predictive model that helps SyriaTel Telecommunication company identify whether there are consistent patterns associated with customer churn.
 
 1.4. Experimental Design
-This outlines the processes to be undertaken in this project. They are:
 
+This outlines the processes to be undertaken in this project. They are:
 Data Understanding
 Data Cleaning
 Exploratory Data Analysis
@@ -21,5 +25,7 @@ Modelling
 Evaluation
 Conclusion
 2. Data Understanding
+
 2.1. Data Description
-The data utilized for this project has been sourced from Kaggle. The dataset contains 3333 entries and 21 columns, including information about the state, account length, area code, phone number, international plan, voice mail plan, number of voice mail messages, total day minutes, total day calls, total day charge, total evening minutes, total evening calls, total evening charge, total night minutes, total night calls, total night charge, total international minutes, total international calls, total international charge, customer service calls and churn.
+
+The data used for this project was obtained from Kaggle. It consists of 3333 entries and 21 columns, providing details such as state, account duration, area code, phone number, international plan, voicemail plan, voicemail message count, and various call-related metrics including daytime, evening, and nighttime minutes, calls, and charges. Additionally, it includes information on international calls and charges, customer service calls, and churn status.
